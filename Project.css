@@ -1,0 +1,149 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header h1 {
+    float: left;
+    margin-top: 32px;
+    color: red;
+    font-family: Arial;
+}
+
+header {
+    height: 120px;
+}
+
+.white {
+    color: white;
+}
+
+#wrapper {
+    background-image: url(images/header.jpg);
+    background-position: top;
+    background-size: cover;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.green {
+    color: green;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+header nav {
+    float: right;
+    margin-top: 40px;
+}
+
+header nav ul li {
+    display: inline-block;
+    padding-left: 15px;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+section div h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.button1 {
+    display: block;
+    background-color: red;
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    line-height: 50px;
+    text-align: center;
+}
+
+#home {
+    weigth: 580px;
+    background-image: url("images/welcome.jpg");
+    height: 700px;
+    font-family: arial;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+section div h2 {
+    color: white;
+    font-size: 30px;
+    padding: 100px 0 40px 0;
+}
+
+#me {
+    background-image: url(images/ME.jpg);
+    background-size: cover;
+    width: 1350px;
+    height: 600px;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 200px;
+}
+
+#YT {
+    background-image: url("images/YT.jpg");
+    height: 900px;
+    width: 1350px;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 40px;
+}
+
+#trailer {
+    margin-top: 300px;
+    margin-right: 800px;
+    border-radius: 30px;
+}
+
+#TCT {
+    float: left;
+    padding-left: 150px;
+}
+
+#CON {
+    width: 1400px;
+    display: inline-block;
+    height: 400px;
+    background-size: contain;
+    background-image: url("images/cont.jpg");
+}
+
+#disimg {
+    margin-left: 40px;
+    width: 90px;
+    height: 90px;
+    margin-top: 150px;
+}
+
+#instaimg {
+    border-radius: 30px;
+    margin-left: 480px;
+    width: 90px;
+    height: 90px;
+    margin-top: 150px;
+}
+
+#emailimg {
+    margin-left: 500px;
+    width: 90px;
+    height: 90px;
+    margin-top: 150px;
+}
